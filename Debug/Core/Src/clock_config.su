@@ -1,0 +1,2 @@
+clock_config.c:71:6:delay_milis1	16	static
+clock_config.c:97:6:setup_clock_for_GPIO	40	static
